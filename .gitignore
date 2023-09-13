@@ -1,0 +1,24 @@
+
+# dependencies
+/node_modules
+/frontend/my_react_app/node_modules
+/frontend/my_react_app/.pnp
+/frontend/my_react_app/.pnp.js
+
+# testing
+/frontend/my_react_app/coverage
+
+# production
+/frontend/my_react_app/build
+
+# misc
+/backend/config/config.env
+/frontend/my_react_app/.DS_Store
+.env.local
+/frontend/my_react_app/.env.development.local
+/frontend/my_react_app/.env.test.local
+/frontend/my_react_app/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
